@@ -1,6 +1,8 @@
 # PROJET 0
 ![img](\img/logo.png)
 
+
+<img src="/img/logo.png">
 ----------------------------
 
 ## DATASET :file_folder:
