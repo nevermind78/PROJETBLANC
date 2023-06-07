@@ -8,7 +8,7 @@
 
 ## DATASET :file_folder:
 le dataset contient 
-les donnes suivantes : 
+les donnes : 
 
 |    |   NumeroEtudiant | Prenom      | Nom     | Adresse               |   CodePostal | Ville       |   TelephoneFixe |   TelephonePortable |
 |---:|-----------------:|:------------|:--------|:----------------------|-------------:|:------------|----------------:|--------------------:|
